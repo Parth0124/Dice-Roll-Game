@@ -1,0 +1,45 @@
+body
+{
+    background-color: #474E68;
+}
+
+h1
+{
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    color: #FCF8E8;
+    padding-top: 3rem;
+}
+
+h3
+{
+    color: #FCF8E8;
+    font-family: 'Lobster', sans-serif;
+}
+
+#display 
+{
+    padding: 2% 15%;
+    position: relative;
+    display: flex; 
+    justify-content: space-between; 
+}
+
+.dice1 
+{
+    text-align: center;
+    padding: 5%;
+    flex: 1; 
+}
+
+/* .square
+{
+    width: 200px;
+    height: 200px;
+    background-color:#B80000;
+    display: inline-block;
+    border-radius: 10%;
+} */
+
+
+
